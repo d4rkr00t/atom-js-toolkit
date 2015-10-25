@@ -1,8 +1,8 @@
 ".source.js":
-  ".map":
+  "Array.map":
     "prefix": ".map"
     "body": """
-    .map(${1:function (${2:item})}${3:item} ${4:=> }${5:\{
-    \t$7
-    \}}$6)
+    .map(${1:function }${2:(arg)} ${3:=> }${4:\{
+    \t$5
+    \})
     """
