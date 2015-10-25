@@ -1,0 +1,8 @@
+".source.js":
+  ".map":
+    "prefix": ".map"
+    "body": """
+    .map(${1:function (${2:item})}${3:item} ${4:=> }${5:\{
+    \t$7
+    \}}$6)
+    """

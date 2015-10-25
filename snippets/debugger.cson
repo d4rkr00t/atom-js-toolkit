@@ -1,0 +1,4 @@
+".source.js":
+  "Debugger":
+    "prefix": "debugger"
+    "body": "debugger;"

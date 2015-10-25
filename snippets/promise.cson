@@ -1,0 +1,8 @@
+".source.js":
+  "Promise":
+    "prefix": "promise"
+    "body": """
+    new Promise(${1:function}(resolve, reject) ${2:=> }{
+    \t$3
+    });
+    """

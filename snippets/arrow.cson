@@ -1,0 +1,4 @@
+".source.js":
+  "Arrow Function":
+    "prefix": "arrow"
+    "body": "${1} => ${2}"

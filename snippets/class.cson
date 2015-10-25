@@ -1,0 +1,11 @@
+".source.js":
+  "Class":
+    "prefix": "class"
+    "body": """
+    class ${1:Classname} ${2:extends AnotherClass} {
+    \t${3:constructor(${4:args}) {
+    \t\t${5:// code}
+    \t\}}
+    \t${6:// methods}
+    }$7
+    """

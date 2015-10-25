@@ -1,0 +1,4 @@
+".source.js":
+  "import":
+    "prefix": "import"
+    "body": "import ${1:*} ${2:as ${3:mod}} from ${4:'lib/package'};"

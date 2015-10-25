@@ -1,0 +1,4 @@
+".source.js":
+  "let":
+    "prefix": "let"
+    "body": "let ${1:${2:x} = ${3:'something'};$4}"

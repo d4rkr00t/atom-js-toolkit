@@ -1,0 +1,25 @@
+{
+  "name": "atom-js-toolkit",
+  "version": "1.0.0",
+  "description": "JavaScript snippets for Atom with support of esnext syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "keywords": [
+    "atom",
+    "snippets",
+    "javascript"
+  ],
+  "author": "Stanislav Sysoev <d4rkr00t@gmail.com> (http://sysoev.org/)",
+  "license": "MIT",
+  "czConfig": {
+    "path": "./node_modules/cz-conventional-changelog"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.1.4"
+  }
+}
